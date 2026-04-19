@@ -8,4 +8,4 @@ This repository contains the main Assignment 01 deliverables for Software Engine
 - `video_script.md`: English speaking script for the presentation
 
 ## Video Link
-- Add your final video URL here
+- 20241008418-r4j1300158-adrian.mp4
