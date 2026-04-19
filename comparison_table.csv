@@ -1,0 +1,7 @@
+Model,Category,Flexibility to changing requirements (Level),Flexibility to changing requirements (Score 1-5),Flexibility visual,Customer involvement (Level),Customer involvement (Score 1-5),Customer visual,Documentation level (Level),Documentation level (Score 1-5),Documentation visual,Best suited project type
+Waterfall Model,Traditional,Low,2,[##---],Low,2,[##---],Very High,5,[#####],"Stable-scope, compliance-heavy, contract-driven projects"
+Agile Methodology,Iterative,Very High,5,[#####],High,4,[####-],Medium,3,[###--],Dynamic products with changing priorities
+Scrum Framework,Agile Framework,High,4,[####-],High,4,[####-],Medium,3,[###--],Team-based product development with iterative releases
+Kanban,Visual Workflow,High,4,[####-],Medium,3,[###--],Low,2,[##---],"Operational work, maintenance, and continuous flow delivery"
+DevOps,Culture + Practice,Very High,5,[#####],Medium,3,[###--],Medium,3,[###--],"Cloud-native, continuously deployed, service-oriented systems"
+Spiral Model,Risk-Driven,Medium,3,[###--],Medium,3,[###--],High,4,[####-],"Large, complex, high-risk engineering projects"
